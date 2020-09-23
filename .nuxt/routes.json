@@ -1,0 +1,23 @@
+[
+  {
+    "name": "books",
+    "path": "/books",
+    "component": "F:\\\\Working Now\\\\challenges\\\\q4-front-end-nuxt\\\\pages\\\\books\\\\index.vue",
+    "chunkName": "pages/books/index",
+    "_name": "_7e84f44e"
+  },
+  {
+    "name": "books-slug",
+    "path": "/books/:slug",
+    "component": "F:\\\\Working Now\\\\challenges\\\\q4-front-end-nuxt\\\\pages\\\\books\\\\_slug.vue",
+    "chunkName": "pages/books/_slug",
+    "_name": "_7cce5306"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\Working Now\\\\challenges\\\\q4-front-end-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2ac2ffdc"
+  }
+]
